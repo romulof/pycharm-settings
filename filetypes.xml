@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".gitmodules" type="Git file" />
+      <mapping pattern=".editorconfig" type="Ini" />
+      <mapping ext="stylelintrc" type="JSON" />
+      <mapping ext="eslintrc" type="JSON" />
+      <mapping ext="babelrc" type="JSON" />
+      <removed_mapping pattern=".babelrc" type="JSON" />
+      <removed_mapping pattern=".stylelintrc" type="JSON" />
+      <removed_mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern="DevTools.jsx" type="JSX Harmony" />
+      <mapping pattern="validatorNotIn" type="JavaScript" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env-test" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
+      <mapping pattern="notifier_client" type="Python" />
+      <mapping pattern="course" type="Python" />
+      <mapping pattern="views" type="Python" />
+      <mapping pattern="nofitier_server" type="Python" />
+      <mapping ext="wsgi" type="Python" />
+    </extensionMap>
+  </component>
+</application>

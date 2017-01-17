@@ -1,0 +1,157 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node">
+      <version-cache version="6.9.1" last-modified="1476914300000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.9.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.7.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.6.0/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.6.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.1/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.2.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.0/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.2.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.0.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.11.1/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v5.11.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.11.0/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v5.11.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.10.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.9.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.6.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1484193537982" />
+    <node-interpreter path="/usr/local/Cellar/node/5.6.0/bin/node" version="(Does not exist)" last-modified="1484193537982" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="PREFER_FROM_IMPORT" value="false" />
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/futuur/webapp/env/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Workspace/myclass/myclass-server/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/myclass/server/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/pro-compliance/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/procompliance/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/syncast/env/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/futuur/webapp/env/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Workspace/myclass/myclass-server/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/myclass/server/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/pro-compliance/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Workspace/procompliance-api/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Workspace/procompliance/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/syncast/env/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/futuur/webapp/env/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Workspace/myclass/myclass-server/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/myclass/server/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/pro-compliance/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/procompliance/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Workspace/syncast/env/bin/python" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.2_3/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="mySvnCommandLine" value="/usr/local/bin/svn" />
+  </component>
+  <component name="VFSTestFrameworkListener">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

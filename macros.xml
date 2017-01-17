@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+      <action id="EditorEnter" />
+      <action id="EditorDown" />
+    </macro>
+  </component>
+</application>
